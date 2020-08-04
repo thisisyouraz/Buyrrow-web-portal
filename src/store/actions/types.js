@@ -1,0 +1,12 @@
+export const LOGIN = 'LOGIN';
+export const LOGOUT = 'LOGOUT';
+export const SIGNUP = 'SIGNUP';
+export const SETUSER = 'SETUSER';
+export const LOGIN_FAILED = 'LOGIN_FAILED'
+export const SIDE_NAV = 'SIDE_NAV'
+export const GET_ALL_ADS = 'GET_ALL_ADS'
+export const GET_APPROVAL_LIST = 'GET_APPROVAL_LIST'
+export const AD_BY_ID = 'AD_BY_ID'  
+export const GET_CORDS = 'GET_CORDS'
+export const GET_SELLER = 'GET_SELLER'
+export const GET_BIDDER = 'GET_BIDDER'
